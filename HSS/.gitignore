@@ -1,0 +1,15 @@
+context.xml
+.classpath
+.project
+.settings/
+WebContent/WEB-INF/lib/
+build/
+.idea/
+WebContent/.idea/
+WebContent/WEB-INF/log/
+WebContent/image/
+WebContent/tmp/
+WebContent/upload/
+classes/
+wxPay.iml
+lib/
